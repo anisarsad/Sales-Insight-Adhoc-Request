@@ -13,8 +13,8 @@ The objective of this sales insight queries are to provide stakeholders with a c
 - [x] Presentation Report: [Canva](https://anisarsad.my.canva.site/sales-insight-sql)
 
 ## Ad-Hoc Requests:
-1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.
-2. What is the percentage of unique product increase in 2021 vs. 2020?
+1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region. <p align="left"> <img src="https://github.com/anisarsad/sales-insight-adhoc-request/blob/main/1.png" height="100"> </p>
+2. What is the percentage of unique product increase in 2021 vs. 2020? <p align="left"> <img src="https://github.com/anisarsad/sales-insight-adhoc-request/blob/main/2.png" height="400"> </p>
 3. Provide a report with all the unique product counts for each segment and sort them in descending order of product counts.
 4. Follow-up: Which segment had the most increase in unique products in 2021 vs 2020?
 5. Get the products that have the highest and lowest manufacturing costs.
@@ -28,11 +28,6 @@ The objective of this sales insight queries are to provide stakeholders with a c
 ## Data Model:
 <p align="center">
   <img src="https://github.com/anisarsad/sales-insight-adhoc-request/blob/main/model.png" height="400">
-</p>
-
-## SQL Queries:
-<p align="center">
-  <img src="" height="400">
 </p>
 
 ## Technical & Soft Skills:
