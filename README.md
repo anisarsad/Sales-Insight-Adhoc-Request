@@ -27,7 +27,7 @@ The objective of this sales insight queries are to provide stakeholders with a c
 
 ## Data Model:
 <p align="center">
-  <img src="https://github.com/anisarsad/Hospitality-Analysis/blob/main/Data%20Model.png" height="400">
+  <img src="https://github.com/anisarsad/sales-insight-adhoc-request/blob/main/model.png" height="400">
 </p>
 
 ## Technical & Soft Skills:
