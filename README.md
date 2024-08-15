@@ -2,9 +2,9 @@
 
 ## Problem Statement:
 
-Atliq Hardwares (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
+Atliq Hardwares, a prominent computer hardware manufacturer in India with a strong international presence, has identified a need for enhanced data-driven decision-making capabilities. 
 
-However, the management noticed that they do not get enough insights to make quick and smart data-informed decisions. They want to expand their data analytics team by adding several junior data analysts. Tony Sharma, their data analytics director wanted to hire someone who is good at both tech and soft skills. Hence, he decided to conduct a SQL challenge which will help him understand both the skills.
+To address this, the company plans to expand its data analytics team by recruiting several junior data analysts. Tony Sharma, the Director of Data Analytics, is seeking candidates who demonstrate a balance of technical proficiency and interpersonal skills. To evaluate these qualities, he has organized a SQL challenge designed to assess both technical expertise and soft skills.
 
 ## Objective:
 
